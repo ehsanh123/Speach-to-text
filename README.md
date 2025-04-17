@@ -12,6 +12,7 @@ This Flask-based web application allows users to upload audio files (e.g., `.web
 ## Prerequisites
 - Python 3.x
 - Required Python libraries: Flask, pydub, speech_recognition
+- you might need to download ffmpeg and add it to envorimental varibles of your system
 
 ### Install dependencies:
 ```bash
